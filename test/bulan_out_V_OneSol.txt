@@ -1,6 +1,0 @@
-9257
-9203 +
-------
-18460
-Waktu yang dibutuhkan : 2.843735456466675 detik
-Jumlah percobaan : 267327

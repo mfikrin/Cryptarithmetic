@@ -1,7 +1,0 @@
-87
-908
-87 +
-------
-1082
-Waktu yang dibutuhkan : 20.78374981880188 detik
-Jumlah percobaan : 2279568

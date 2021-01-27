@@ -1,3 +1,0 @@
-Waktu yang dibutuhkan : 39.795522689819336 detik
-Jumlah percobaan : 3628800
-

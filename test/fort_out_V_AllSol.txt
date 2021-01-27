@@ -1,9 +1,0 @@
-29786
-850
-850 +
-------
-31486
-Waktu yang dibutuhkan : 37.32342314720154 detik
-Jumlah percobaan : 2789576
-Banyaknya solusi sejauh ini : 1
-
