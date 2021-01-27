@@ -1,5 +1,18 @@
 # Cryptarithmetic
 
+Muhammad Fikri. N
+13519069
+K02
+
+## Description :
+Program ini digunakan untuk menyelesaikan cryptarithmetic problem.  \
+Program dapat membaca input dari user atau membaca file eksternal  \
+yang sudah ada pada folder test. Kemudian, output nya akan tersimpan \ 
+pada file dengan ekstensi .txt\
+
+## Requirements
+install python dan pastikan dapat dijalankan
+
 ## How to run
 <b>clone repository </b>
 ```
