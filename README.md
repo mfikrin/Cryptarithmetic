@@ -1,8 +1,8 @@
 # Cryptarithmetic
 
-Muhammad Fikri. N
-13519069
-K02
+Muhammad Fikri. N \
+13519069 \
+K02 \
 
 ## Description :
 Program ini digunakan untuk menyelesaikan cryptarithmetic problem.  \
