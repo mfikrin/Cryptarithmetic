@@ -1,0 +1,16 @@
+Question
+
+CROSS
+ROADS +
+------
+DANGER
+
+Answer
+
+96233
+62513 +
+------
+158746
+Waktu yang dibutuhkan : 0.8389115333557129 detik
+Jumlah percobaan : 69531
+

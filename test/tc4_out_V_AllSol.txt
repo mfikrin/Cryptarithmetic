@@ -1,0 +1,17 @@
+Question
+
+COCA
+COLA +
+------
+OASIS
+
+Answer
+
+8186
+8106 +
+------
+16292
+Waktu yang dibutuhkan : 21.584852933883667 detik
+Jumlah percobaan : 2300064
+Banyaknya solusi sejauh ini : 1
+

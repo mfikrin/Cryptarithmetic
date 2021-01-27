@@ -1,0 +1,16 @@
+Question
+
+TILES
+PUZZLES +
+------
+PICTURE
+
+Answer
+
+91542
+3077542 +
+------
+3169084
+Waktu yang dibutuhkan : 1.821096420288086 detik
+Jumlah percobaan : 135809
+

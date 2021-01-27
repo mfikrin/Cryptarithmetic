@@ -1,0 +1,204 @@
+Question
+
+JUNE
+JULY +
+------
+APRIL
+
+Answer
+
+9257
+9203 +
+------
+18460
+Waktu yang dibutuhkan : 2.795382499694824 detik
+Jumlah percobaan : 267327
+Banyaknya solusi sejauh ini : 1
+
+Question
+
+JUNE
+JULY +
+------
+APRIL
+
+Answer
+
+9253
+9207 +
+------
+18460
+Waktu yang dibutuhkan : 2.8313419818878174 detik
+Jumlah percobaan : 270926
+Banyaknya solusi sejauh ini : 2
+
+Question
+
+JUNE
+JULY +
+------
+APRIL
+
+Answer
+
+5487
+5436 +
+------
+10923
+Waktu yang dibutuhkan : 7.853691339492798 detik
+Jumlah percobaan : 706117
+Banyaknya solusi sejauh ini : 3
+
+Question
+
+JUNE
+JULY +
+------
+APRIL
+
+Answer
+
+5486
+5437 +
+------
+10923
+Waktu yang dibutuhkan : 7.876628637313843 detik
+Jumlah percobaan : 708276
+Banyaknya solusi sejauh ini : 4
+
+Question
+
+JUNE
+JULY +
+------
+APRIL
+
+Answer
+
+7926
+7904 +
+------
+15830
+Waktu yang dibutuhkan : 12.978044509887695 detik
+Jumlah percobaan : 1197591
+Banyaknya solusi sejauh ini : 5
+
+Question
+
+JUNE
+JULY +
+------
+APRIL
+
+Answer
+
+7924
+7906 +
+------
+15830
+Waktu yang dibutuhkan : 12.992008686065674 detik
+Jumlah percobaan : 1198974
+Banyaknya solusi sejauh ini : 6
+
+Question
+
+JUNE
+JULY +
+------
+APRIL
+
+Answer
+
+8529
+8534 +
+------
+17063
+Waktu yang dibutuhkan : 23.57263159751892 detik
+Jumlah percobaan : 2205225
+Banyaknya solusi sejauh ini : 7
+
+Question
+
+JUNE
+JULY +
+------
+APRIL
+
+Answer
+
+8524
+8539 +
+------
+17063
+Waktu yang dibutuhkan : 23.596513748168945 detik
+Jumlah percobaan : 2207313
+Banyaknya solusi sejauh ini : 8
+
+Question
+
+JUNE
+JULY +
+------
+APRIL
+
+Answer
+
+8532
+8564 +
+------
+17096
+Waktu yang dibutuhkan : 23.645383596420288 detik
+Jumlah percobaan : 2210981
+Banyaknya solusi sejauh ini : 9
+
+Question
+
+JUNE
+JULY +
+------
+APRIL
+
+Answer
+
+8534
+8562 +
+------
+17096
+Waktu yang dibutuhkan : 23.665329694747925 detik
+Jumlah percobaan : 2212376
+Banyaknya solusi sejauh ini : 10
+
+Question
+
+JUNE
+JULY +
+------
+APRIL
+
+Answer
+
+8432
+8475 +
+------
+16907
+Waktu yang dibutuhkan : 27.125271558761597 detik
+Jumlah percobaan : 2533414
+Banyaknya solusi sejauh ini : 11
+
+Question
+
+JUNE
+JULY +
+------
+APRIL
+
+Answer
+
+8435
+8472 +
+------
+16907
+Waktu yang dibutuhkan : 27.141236066818237 detik
+Jumlah percobaan : 2535058
+Banyaknya solusi sejauh ini : 12
+

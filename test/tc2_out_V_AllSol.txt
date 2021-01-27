@@ -1,0 +1,17 @@
+Question
+
+TILES
+PUZZLES +
+------
+PICTURE
+
+Answer
+
+91542
+3077542 +
+------
+3169084
+Waktu yang dibutuhkan : 1.618398666381836 detik
+Jumlah percobaan : 135809
+Banyaknya solusi sejauh ini : 1
+

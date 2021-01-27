@@ -1,0 +1,18 @@
+Question
+
+CLOCK
+TICK
+TOCK +
+------
+PLANET
+
+Answer
+
+90892
+6592
+6892 +
+------
+104376
+Waktu yang dibutuhkan : 2.2819459438323975 detik
+Jumlah percobaan : 184564
+

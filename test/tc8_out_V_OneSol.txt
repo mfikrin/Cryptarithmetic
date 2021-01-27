@@ -1,0 +1,22 @@
+Question
+
+THREE
+THREE
+TWO
+TWO
+ONE +
+------
+ELEVEN
+
+Answer
+
+84611
+84611
+803
+803
+391 +
+------
+171219
+Waktu yang dibutuhkan : 39.57658052444458 detik
+Jumlah percobaan : 2500754
+

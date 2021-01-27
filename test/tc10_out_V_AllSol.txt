@@ -1,0 +1,17 @@
+Question
+
+MEMO
+FROM +
+------
+HOMER
+
+Answer
+
+8485
+7358 +
+------
+15843
+Waktu yang dibutuhkan : 23.55596899986267 detik
+Jumlah percobaan : 2535672
+Banyaknya solusi sejauh ini : 1
+

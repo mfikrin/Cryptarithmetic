@@ -1,0 +1,17 @@
+Question
+
+SEND
+MORE +
+------
+MONEY
+
+Answer
+
+9567
+1085 +
+------
+10652
+Waktu yang dibutuhkan : 0.0 detik
+Jumlah percobaan : 0
+Banyaknya solusi sejauh ini : 1
+

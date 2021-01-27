@@ -1,0 +1,16 @@
+Question
+
+HERE
+SHE +
+------
+COMES
+
+Answer
+
+9454
+894 +
+------
+10348
+Waktu yang dibutuhkan : 3.5730085372924805 detik
+Jumlah percobaan : 360012
+

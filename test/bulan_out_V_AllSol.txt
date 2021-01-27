@@ -1,0 +1,84 @@
+9257
+9203 +
+------
+18460
+Waktu yang dibutuhkan : 3.275190830230713 detik
+Jumlah percobaan : 267327
+
+9253
+9207 +
+------
+18460
+Waktu yang dibutuhkan : 3.3151204586029053 detik
+Jumlah percobaan : 270926
+
+5487
+5436 +
+------
+10923
+Waktu yang dibutuhkan : 8.825184106826782 detik
+Jumlah percobaan : 706117
+
+5486
+5437 +
+------
+10923
+Waktu yang dibutuhkan : 8.84812307357788 detik
+Jumlah percobaan : 708276
+
+7926
+7904 +
+------
+15830
+Waktu yang dibutuhkan : 14.966429471969604 detik
+Jumlah percobaan : 1197591
+
+7924
+7906 +
+------
+15830
+Waktu yang dibutuhkan : 14.98041582107544 detik
+Jumlah percobaan : 1198974
+
+8529
+8534 +
+------
+17063
+Waktu yang dibutuhkan : 27.445353031158447 detik
+Jumlah percobaan : 2205225
+
+8524
+8539 +
+------
+17063
+Waktu yang dibutuhkan : 27.47627019882202 detik
+Jumlah percobaan : 2207313
+
+8532
+8564 +
+------
+17096
+Waktu yang dibutuhkan : 27.524650812149048 detik
+Jumlah percobaan : 2210981
+
+8534
+8562 +
+------
+17096
+Waktu yang dibutuhkan : 27.54360055923462 detik
+Jumlah percobaan : 2212376
+
+8432
+8475 +
+------
+16907
+Waktu yang dibutuhkan : 31.51595950126648 detik
+Jumlah percobaan : 2533414
+
+8435
+8472 +
+------
+16907
+Waktu yang dibutuhkan : 31.539903163909912 detik
+Jumlah percobaan : 2535058
+

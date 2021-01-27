@@ -1,0 +1,17 @@
+Question
+
+NUMBER
+NUMBER +
+------
+PUZZLE
+
+Answer
+
+201689
+201689 +
+------
+403378
+Waktu yang dibutuhkan : 35.39149069786072 detik
+Jumlah percobaan : 2712549
+Banyaknya solusi sejauh ini : 1
+

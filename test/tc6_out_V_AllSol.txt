@@ -1,0 +1,19 @@
+Question
+
+DOUBLE
+DOUBLE
+TOIL +
+------
+TROUBLE
+
+Answer
+
+798064
+798064
+1936 +
+------
+1598064
+Waktu yang dibutuhkan : 16.931264400482178 detik
+Jumlah percobaan : 1191219
+Banyaknya solusi sejauh ini : 1
+

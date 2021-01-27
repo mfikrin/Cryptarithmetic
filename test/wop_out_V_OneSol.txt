@@ -1,0 +1,11 @@
+Question
+
+ABCD
+EFGH +
+------
+ABKL
+
+Tidak ada kemungkinan angka yang memenuhi :')
+Waktu yang dibutuhkan : 36.194130182266235 detik
+Jumlah percobaan : 3628800
+

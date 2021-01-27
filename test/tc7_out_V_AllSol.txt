@@ -1,0 +1,19 @@
+Question
+
+NO
+GUN
+NO +
+------
+HUNT
+
+Answer
+
+87
+908
+87 +
+------
+1082
+Waktu yang dibutuhkan : 19.958977937698364 detik
+Jumlah percobaan : 2279568
+Banyaknya solusi sejauh ini : 1
+

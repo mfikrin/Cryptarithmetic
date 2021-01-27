@@ -1,0 +1,9 @@
+90892
+6592
+6892 +
+------
+104376
+Waktu yang dibutuhkan : 2.6768641471862793 detik
+Jumlah percobaan : 184564
+Banyaknya solusi sejauh ini : 1
+

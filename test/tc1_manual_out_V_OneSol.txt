@@ -1,0 +1,16 @@
+Question
+
+NUMBER
+NUMBER +
+------
+PUZZLE
+
+Answer
+
+201689
+201689 +
+------
+403378
+Waktu yang dibutuhkan : 36.112857818603516 detik
+Jumlah percobaan : 2712549
+

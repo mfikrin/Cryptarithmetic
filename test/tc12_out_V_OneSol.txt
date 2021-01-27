@@ -1,0 +1,16 @@
+Question
+
+JUNE
+JULY +
+------
+APRIL
+
+Answer
+
+9257
+9203 +
+------
+18460
+Waktu yang dibutuhkan : 4.2413718700408936 detik
+Jumlah percobaan : 267327
+
