@@ -16,7 +16,7 @@ install python dan pastikan dapat dijalankan
 ## How to run
 <b>clone repository </b>
 ```
-https://github.com/mfikrin/Cryptarithmetic.git
+git clone https://github.com/mfikrin/Cryptarithmetic.git
 ```
 Atau\
 Download zip pada repository ini kemudian ekstrak
