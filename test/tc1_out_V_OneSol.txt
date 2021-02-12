@@ -11,6 +11,6 @@ Answer
 201689 +
 ------
 403378
-Waktu yang dibutuhkan : 42.31176829338074 detik
+Waktu yang dibutuhkan : 34.04678773880005 detik
 Jumlah percobaan : 2712549
 

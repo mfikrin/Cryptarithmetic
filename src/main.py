@@ -54,7 +54,8 @@ def get_val(arrStr,i):
 
     return sum
 
-string = "9567108234"
+# string = "9567108234"
+string = "0123456789"
 len_string = len(string)
 strings = list(string)
 def toString(List):
@@ -107,6 +108,7 @@ if pil_sol == 1:
             dict[char] = int(permute[idx])
             idx += 1
         if is_proper(arrStr):
+            percobaan += 1
             cut_string = permute[0:len(unique)]
             for solusi in answer:
                 if solusi == cut_string:
@@ -231,6 +233,7 @@ elif pil_sol == 2:
             dict[char] = int(permute[idx])
             idx += 1
         if is_proper(arrStr):
+            percobaan += 1
             print("Question\n")
             outfile.write("Question\n")
             outfile.write("\n")

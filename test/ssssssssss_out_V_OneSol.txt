@@ -1,0 +1,16 @@
+Question
+
+SEND
+MORE +
+------
+MONEY
+
+Answer
+
+9567
+1085 +
+------
+10652
+Waktu yang dibutuhkan : 32.83967304229736 detik
+Jumlah percobaan : 3450471
+
