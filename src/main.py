@@ -54,8 +54,8 @@ def get_val(arrStr,i):
 
     return sum
 
-# string = "9567108234"
-string = "0123456789"
+string = "9567108234"
+
 len_string = len(string)
 strings = list(string)
 def toString(List):
